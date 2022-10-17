@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Navneeth</h1>
 <h3 align="center">Learning ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VULCAN1NK&label=Profile%20views&color=0e75b6&style=flat" alt="VULCAN1NK" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vulacan1nk" alt="VULCAN1NK" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
