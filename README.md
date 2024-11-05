@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navneeth</h1><br/>
 
-<h3 align="left">Enthusiastic and dedicated Computer Science student specializing in Artificial Intelligence with a good founda􀆟on in machine learning. Eager to apply theoretical knowledge and practical skills, including machine learning algorithms and data science, to tackle real-world challenges in AI. Possessing strong teamwork abilities, effective communica􀆟on of technical concepts, and adaptability to dynamic work environments. Commited to continuous learning and staying updated with emerging trends and technologies in the ever-evolving field of AI.</h3><br/>
+<h3 align="left">Enthusiastic and dedicated Computer Science student specializing in Artificial Intelligence with a good foundation in machine learning. Eager to apply theoretical knowledge and practical skills, including machine learning algorithms and data science, to tackle real-world challenges in AI. Possessing strong teamwork abilities, effective communication of technical concepts, and adaptability to dynamic work environments. Commited to continuous learning and staying updated with emerging trends and technologies in the ever-evolving field of AI.</h3><br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VULCAN1NK" alt="VULCAN1NK" /></a> </p>
 <br/>
